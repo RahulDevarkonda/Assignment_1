@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d56ec80c-ab33-4439-aee0-cdd7c949975f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Packg1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Packg1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Packg1/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Packg2/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Packg2/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Packg1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Packg1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Packg1/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Packg2/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Packg2/Lion.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -41,6 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -51,14 +50,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Food">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TestTribe\Assignment_3\src\main\java\Packg2" />
+      <recent name="C:\TestTribe\Assignment_3\src\main\java\Packg1\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FireFoxDriver">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Packg1.Animal" />
       <module name="Assignment_3" />
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Packg1.Dog" />
+    <configuration name="FireFoxDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Packg3.FireFoxDriver" />
       <module name="Assignment_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Packg1.*" />
+          <option name="PATTERN" value="Packg3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Packg1.Human" />
-      <module name="Assignment_3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Packg1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Packg2.Lion" />
       <module name="Assignment_3" />
@@ -124,13 +116,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Packg3.ChromeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Packg3.ChromeDriver" />
+      <module name="Assignment_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FireFoxDriver" />
+        <item itemvalue="Application.Packg3.ChromeDriver" />
         <item itemvalue="Application.Food" />
-        <item itemvalue="Application.Lion" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Human" />
         <item itemvalue="Application.Animal" />
+        <item itemvalue="Application.Lion" />
       </list>
     </recent_temporary>
   </component>

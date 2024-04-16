@@ -1,7 +1,8 @@
 package Packg2;
-
 import Packg1.Animal;
-import Packg1.Dog;
+
+
+
 
 public class Lion extends Animal {
 
