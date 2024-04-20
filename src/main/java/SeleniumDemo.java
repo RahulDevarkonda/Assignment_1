@@ -22,7 +22,7 @@ import java.time.Duration;
        //go to facebook and sign in
         wd1.get("https://www.facebook.com/login.php/");
         wd1.findElement(By.xpath("//input[@id='email']")).sendKeys("9373450596");
-        wd1.findElement(By.xpath("//input[@id='pass']")).sendKeys("awesome@123");
+        wd1.findElement(By.xpath("//input[@id='pass']")).sendKeys("abcd@123");
        Thread.sleep(1000);
         wd1.findElement(By.xpath("//button[@name='login']")).click();
       wd1.quit();
