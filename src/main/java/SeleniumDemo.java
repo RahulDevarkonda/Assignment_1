@@ -9,11 +9,10 @@ import java.time.Duration;
     public class SeleniumDemo {
 
     public static void main(String[] args) throws InterruptedException {
-       //WebDriver wd= new ChromeDriver();
-        //WebDriver wd1= new ChromeDriver();
+       WebDriver wd= new ChromeDriver();
+        WebDriver wd1= new ChromeDriver();
         WebDriver wd2=new ChromeDriver();
 
-/*
         //Go to youtube.com and search podtest
       wd.get("https://www.youtube.com/");
        wd.findElement(By.xpath("//input[@id='search']")).sendKeys("podtest");
@@ -27,7 +26,6 @@ import java.time.Duration;
        Thread.sleep(1000);
         wd1.findElement(By.xpath("//button[@name='login']")).click();
       wd1.quit();
-      */
 
         //go to Times of India website
         wd2.get("https://timesofindia.indiatimes.com/");
